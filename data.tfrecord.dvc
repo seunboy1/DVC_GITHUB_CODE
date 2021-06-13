@@ -1,0 +1,4 @@
+outs:
+- md5: ba5ee47442c981268bf81bd9c67a9252
+  size: 4666175
+  path: data.tfrecord
